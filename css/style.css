@@ -18,3 +18,12 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  color: #98ADA6;
+  font-size: 5em;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  padding: 10px 0;
+  margin: 0;
+}
